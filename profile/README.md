@@ -4,7 +4,7 @@ We know how hard it is to identify GitHub repositories that you can use as part 
 
 By the Microsoft Data Platform community, for the Microsoft Data Platform Community.
 
-On our [Fabric Essentials GitHub Page](https://fabricessentials.github.io/) you will find hand-picked GitHub repositories that we recommend to make the most out of Microsoft Fabric. We select these based on various criteria, including their level of [GitHub hygiene](https://www.kevinrchant.com/2022/07/05/github-hygiene-for-microsoft-data-platform-repositories/).
+To make things easier for you, you can navigate to our [Fabric Essentials GitHub Page](https://fabricessentials.github.io/) to find hand-picked GitHub repositories that we recommend to make the most out of Microsoft Fabric. We select these based on various criteria, including their level of [GitHub hygiene](https://www.kevinrchant.com/2022/07/05/github-hygiene-for-microsoft-data-platform-repositories/).
 
 Even though we recommend Git repositories created by various members of the community, we do highlight ones created by Microsoft that we think are essential as well. For example, the Fabric Toolbox.
 
