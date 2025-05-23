@@ -13,6 +13,6 @@ You can see a list of all the recommended Microsoft Fabric related repositories 
 One thing we must stress is that if you find any of the repositories useful please give credit to the **original** source repository and not the ones forked in this organization.
 
 <p align="center">
-    <img src="./images/fabric_48_color.png" alt="Microsoft Fabric">
+    <img src="../images/fabric_48_color.png" alt="Microsoft Fabric">
 </p>
 
